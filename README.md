@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o João! 👋
 
-<!--
-**JoaoMatheusUchoas/JoaoMatheusUchoas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Interesses: Desenvolvimento de Jogos, Web e Automação  
+🎮 Aspirante a Criador de jogos 2D, Quadrinista Amador e Artista
+📚 Aprendendo: Java, C#, Python
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que uso:
+- GML
+- HTML, CSS, JavaScript
+- C#, Python, Java
+- Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📌 Projetos em Destaque:
+- **Fangame de Fnaf** - Uma fangame baseada no jogo Five Nights At Freddy's
+- **Rpg estilo Undertale** - Ainda em produção
+- **um Shooter em 2d** - Tambem em produção
+
+## 📫 Contato
+- [LinkedIn]([https://linkedin.com/in/seulink](https://www.linkedin.com/in/joão-matheus-uchoas-1567a9378))
+- Email: joaomdocarmo13@gmail.com
