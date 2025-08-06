@@ -18,5 +18,5 @@
 - **um Shooter em 2d** - Tambem em produção
 
 ## 📫 Contato
-- [LinkedIn]([https://linkedin.com/in/seulink](https://www.linkedin.com/in/joão-matheus-uchoas-1567a9378))
+- [LinkedIn][https://www.linkedin.com/in/joão-matheus-uchoas-1567a9378]
 - Email: joaomdocarmo13@gmail.com
